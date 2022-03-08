@@ -1,0 +1,2 @@
+# itemlist
+Rimworld eşya listesi
